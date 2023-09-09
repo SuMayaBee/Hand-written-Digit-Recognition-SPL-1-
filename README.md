@@ -4,3 +4,14 @@ This project implements a neural network for recognizing handwritten digits from
 The program uses the MNIST dataset to train the neural network. The dataset consists of images of handwritten digits and their corresponding labels. The program loops through the dataset to train the network using gradient descent. 
 
 The program uses the math library to calculate the exponential and logarithmic functions. The program also includes header files for the MNIST dataset and neural network.
+
+
+
+
+
+
+
+
+
+
+
